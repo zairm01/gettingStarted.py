@@ -25,7 +25,7 @@ def welcome_assignment_answers(question):
         return "No"
 
     elif question == "What layer of the TCP/IP model does the protocol DNS belong to? - The answer should be an integer number":
-        return 4  # Application layer
+        return 5  # Application layer
 
     elif question == "What layer of the TCP/IP model does the protocol ICMP belong to? - The answer should be an integer number":
         return 3  # Network layer
